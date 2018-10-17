@@ -66,7 +66,7 @@ function getDetails(){
 	
 	$.ajax({
 		type : "GET",
-		url : window.location + "/getResource/"+idorName,
+		url : window.location + "getResource/"+idorName,
 		 dataType: 'json',
 		success : function(result) {
 			if(isNullOrEmpty(result)){
