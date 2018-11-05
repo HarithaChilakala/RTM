@@ -1,0 +1,7 @@
+com\resoursetechmapping\daoimpl\ResourceMapper.class
+com\resoursetechmapping\dao\ResourceDao.class
+com\resoursetechmapping\controller\ResourceController.class
+com\resoursetechmapping\service\ResourceService.class
+com\resoursetechmapping\bean\Resource.class
+com\resoursetechmapping\serviceimpl\ResourceServiceImpl.class
+com\resoursetechmapping\daoimpl\ResourceDaoImpl.class
